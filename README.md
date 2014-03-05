@@ -1,4 +1,4 @@
-jQuery-Popup-Menu-Plugin
+popUpMenu
 ========================
 
 jQuery Popup Menu Plugin
